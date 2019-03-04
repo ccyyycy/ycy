@@ -1,5 +1,5 @@
-# ycy
-print "hello ycy!"
+# 
+print("hello ycy!")
 
 欢迎大家！
 
