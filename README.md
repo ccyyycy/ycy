@@ -2,6 +2,10 @@
 
 YCY is the abbreviation of ChaoYue Yang , who is a famous star in China,and we are her fans. 
 
+We are now organize a programming competition. All ideas are submitted on GitHub issues.
+
+We welcome all friends to visit our GitHub and attend this competition.
+
 ## 【发帖格式】在issue发表组队需求时参照本文
 
 标题：【大致方向】+【名称】+【相关技术/平台】+【组队所需人数】+【联系方式】
