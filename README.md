@@ -40,6 +40,12 @@ QQ群  956848519
 
 ## 公共平台，发帖一切内容与杨超越和杨超越粉丝无关。
 
+# 共享资源
+
+超越图链 一些超越的图片    https://github.com/ccyyycy/ycy/blob/master/%E8%B6%85%E8%B6%8A%E5%9B%BE%E9%93%BE
+微博词云  关于ycy微博的txt  https://github.com/ccyyycy/ycy/blob/master/%E8%B6%85%E8%B6%8A%E5%BE%AE%E5%8D%9A%E8%AF%8D%E4%BA%91
+网络资源   网上关于本次大赛的一些情况  https://github.com/ccyyycy/ycy/blob/master/%E7%BD%91%E7%BB%9C%E8%B5%84%E6%BA%90
+
 # 联系方式
 
 微博：杨超越码农后援会
