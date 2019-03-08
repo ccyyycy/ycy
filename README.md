@@ -1,6 +1,6 @@
 # Welcome
 
-This is the base of programmers who are fans of Yang Chaoyue.
+YCY is the abbreviation of ChaoYue Yang , who is a famous star in China,and we are her fans. 
 
 ## 【发帖格式】在issue发表组队需求时参照本文
 
