@@ -1,6 +1,6 @@
 # Welcome
 
-This is the base of programmers who like Yang Chaoyue.
+This is the base of programmers who are fans of Yang Chaoyue.
 
 ## 【发帖格式】在issue发表组队需求时参照本文
 
