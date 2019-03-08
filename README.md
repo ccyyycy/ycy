@@ -1,6 +1,6 @@
 # Welcome
 
-YCY is the abbreviation of ChaoYue Yang , who is a famous star in China,and we are her fans. 
+YCY is the abbreviation of ChaoYue Yang , who is a famous star in China,and we are her fans.
 
 We are now organize a programming competition. All ideas are submitted on GitHub issues.
 
@@ -53,8 +53,8 @@ QQ 群：956848519
 合理利用已有资源，不要重复造轮子，下面是一些网友收集的相关数据，包括图片，文本，统计数据等。
 
 1. 超越图链：[一些超越的图片](https://github.com/ccyyycy/ycy/blob/master/%E8%B6%85%E8%B6%8A%E5%9B%BE%E9%93%BE)
-1. 微博词云：[关于ycy微博的txt](https://github.com/ccyyycy/ycy/blob/master/%E8%B6%85%E8%B6%8A%E5%BE%AE%E5%8D%9A%E8%AF%8D%E4%BA%911) 
-1. 关于ycy的一些 [数据统计](https://ycy.har01d.win/#/weibo) 
+1. 微博词云：[关于ycy微博的txt](https://github.com/ccyyycy/ycy/blob/master/%E8%B6%85%E8%B6%8A%E5%BE%AE%E5%8D%9A%E8%AF%8D%E4%BA%91)
+1. 关于ycy的一些 [数据统计](https://ycy.har01d.win/#/weibo)
 
 <br/>
 
