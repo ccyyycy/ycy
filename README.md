@@ -2,7 +2,7 @@
 
 This is the base of programmers who like Yang Chaoyue.
 
-# 【发帖格式】在issue发表组队需求时参照本文
+## 【发帖格式】在issue发表组队需求时参照本文
 
 标题：【大致方向】+【名称】+【相关技术/平台】+【组队所需人数】+【联系方式】
 
