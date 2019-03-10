@@ -1,3 +1,23 @@
+# 重要通知：报名表已下发。
+
+请已经完成组队的队伍填写一下报名表，
+认真阅读报名表中的内容，
+并按照要求填写并邮件发送报名表，邮件命名规则：issue#层数+队伍名称
+
+这次活动热度超出预期，
+在此感谢大家的体谅。
+
+未完成组队的请尽快组队，
+
+缺设计师、画师的队伍请尽快加入设计师群：967483593，
+或者通过其他手段自行寻找。
+
+报名表下载：[报名表下载地址](https://github.com/ccyyycy/ycy/blob/master/超越杯编程大赛报名立项表0309-v3.xlsx)
+报名截止时间：北京时间 2019.03.16 20:00:00
+报名 email：helloycy@yunlvkeji.com
+
+----
+
 # Welcome
 
 YCY is the abbreviation of **Y**ang **C**hao**y**ue, who is a famous star in China. We are her fans.
@@ -52,16 +72,21 @@ QQ 群：956848519
 
 合理利用已有资源，不要重复造轮子，下面是一些网友收集的相关数据，包括图片，文本，统计数据等。
 
-1. 超越图链：[一些超越的图片](https://github.com/ccyyycy/ycy/blob/master/%E8%B6%85%E8%B6%8A%E5%9B%BE%E9%93%BE)
+1. 超越图链：[一些超越的图片](https://github.com/ccyyycy/ycy/blob/master/%E8%B6%85%E8%B6%8A%E5%9B%BE%E5%8C%85%E9%93%BE%E6%8E%A5%EF%BC%88%E5%B7%B2%E6%9B%B4%E6%96%B0%EF%BC%89)
 1. 微博词云：[关于 ycy 微博的 txt](https://github.com/ccyyycy/ycy/blob/master/%E8%B6%85%E8%B6%8A%E5%BE%AE%E5%8D%9A%E8%AF%8D%E4%BA%91)
 1. 关于 ycy 的一些[数据统计](https://ycy.har01d.win/#/weibo) 
 
 <br/>
 
+# 新手须知
+
+GitHub 教程 https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+
+
 # 联系方式
 
 微博：杨超越码农后援会
 
-Email：helloworldccyy@163.com
+Email：helloycy@yunlvkeji.com
 
 重要的事情请发邮件联系
