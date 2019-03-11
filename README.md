@@ -90,6 +90,8 @@ QQ 群：956848519
 
 合理利用已有资源，不要重复造轮子，下面是一些网友收集的相关数据，包括图片，文本，统计数据等。
 
+欢迎有资源的网友上传和共享你们的资源。谢谢！
+
 1. 超越图链：[一些超越的图片](https://github.com/ccyyycy/ycy/blob/master/%E8%B6%85%E8%B6%8A%E5%9B%BE%E5%8C%85%E9%93%BE%E6%8E%A5%EF%BC%88%E5%B7%B2%E6%9B%B4%E6%96%B0%EF%BC%89)
 1. 微博词云：[关于 ycy 微博的 txt](https://github.com/ccyyycy/ycy/blob/master/%E8%B6%85%E8%B6%8A%E5%BE%AE%E5%8D%9A%E8%AF%8D%E4%BA%91)
 1. 关于 ycy 的一些[数据统计](https://ycy.har01d.win/#/weibo) 
